@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137453302079",
+    "project_id": "fire-auth-with-rx-dart",
+    "storage_bucket": "fire-auth-with-rx-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137453302079:android:a724ee2e3fbd61903ee38a",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth_with_rx_dart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137453302079-cvur951maqr6cnksq93s9qoeeuscvutc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1X0IX9FyuXP6zyAGiRjDZL_7NUQD9Z5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137453302079-cvur951maqr6cnksq93s9qoeeuscvutc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
